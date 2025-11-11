@@ -1,5 +1,5 @@
 <?php
-// Inisialisasi project UTS Pemrograman Web - CRUD Data Pasien
+//Menambahkan fitur tambah dan simpan data pasien
 <!DOCTYPE html>
 <html>
 <head>
