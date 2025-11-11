@@ -1,4 +1,5 @@
 <?php
+//Menambahkan fitur hapus data pasien
 include "config.php";
 
 $id = $_GET['id'];
