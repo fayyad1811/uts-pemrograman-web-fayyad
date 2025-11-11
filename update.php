@@ -1,4 +1,5 @@
 <?php
+//Menambahkan fitur edit dan update data pasien
 include "config.php";
 
 $id            = $_POST['id'];
