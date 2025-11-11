@@ -1,4 +1,5 @@
 <?php
+//Membuat halaman index.php untuk menampilkan data pasien
 include "config.php";
 
 $result = mysqli_query($conn, "SELECT * FROM pasien ORDER BY id DESC");
