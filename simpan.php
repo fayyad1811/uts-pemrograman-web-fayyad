@@ -1,4 +1,5 @@
 <?php
+//Menambahkan fitur tambah dan simpan data pasien
 include "config.php";
 
 $kode          = $_POST['kode'];
