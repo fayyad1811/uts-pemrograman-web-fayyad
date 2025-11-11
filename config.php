@@ -1,4 +1,5 @@
 <?php
+//Menambahkan file config.php untuk koneksi database
 $host       = "localhost";
 $user       = "root";
 $password   = "";
